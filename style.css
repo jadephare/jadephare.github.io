@@ -85,13 +85,16 @@ h3 {
 
 p,
 ul {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 /* Links styles */
 a {
     color: var(--accent-color);
     text-decoration: none;
+}
+section {
+    margin-bottom: 30px;
 }
 
 a:hover {
